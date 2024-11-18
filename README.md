@@ -1,5 +1,11 @@
 ## Python: Defining a Default Value for a Parameter
 
+### Saving Your Work
+
+As usual, save your work to your GitHub repo.
+
+**Show me your finished code today during Teacher Time.**
+
 ### Reading
 
 - In _Python Crash Course_, read the **Default Values** section, pp. 134 - 135
@@ -14,8 +20,4 @@
   - positional **arguments** in Version 1.0
   - keyword **arguments** in Version 2.0
  
-### Saving Your Work
 
-As usual, save your work to your GitHub repo.
-
-Be prepared to discuss your code during Teacher Time.
